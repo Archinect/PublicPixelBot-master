@@ -14,7 +14,7 @@ function CoiPixelBot() {
     window.CoiPixelBot = CoiPixelBot;
 
     CoiPixelBot.url = {
-        script: 'https://github.com/Archinect/PublicPixelBot-master/raw/master/PixelBot.user.js',
+        script: 'https://rawgit.com/Archinect/PublicPixelBot-master/master/PixelBot.user.js',
         image:  'https://i.imgur.com/3vbRQ9A.png'
     };
 
