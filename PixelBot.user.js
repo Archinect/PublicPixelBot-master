@@ -15,7 +15,7 @@ function CoiPixelBot() {
 
     CoiPixelBot.url = {
         script: 'https://github.com/Archinect/PublicPixelBot-master/raw/master/PixelBot.user.js',
-        image:  'https://i.imgur.com/rlOTxKf.png'
+        image:  'https://i.imgur.com/3vbRQ9A.png'
     };
 
     CoiPixelBot.refreshTime = 300;
