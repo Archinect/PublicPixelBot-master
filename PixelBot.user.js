@@ -19,7 +19,7 @@ function PixelBot() {
     }
  
     PixelBot.url = {
-        script: 'https://raw.codepaste.me/b2eb4911',
+        script: 'https://github.com/Archinect/PublicPixelBot-master/raw/master/PixelBot.user.js',
         image: 'https://i.imgur.com/KPM7T2r.png'
     };
  
